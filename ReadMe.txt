@@ -1,1 +1,1 @@
-Experiments with Humidity sensor ****** and Raspberry Pi 3 Model B
+Experiments with Humidity sensor Capacitive Soil Moisture Sensor and Raspberry Pi 3 Model B
